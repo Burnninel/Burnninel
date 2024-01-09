@@ -1,10 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71006af13BF7&width=435&height=45px&lines=Hello,+I'm+Bruno!)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71006af13BF7&width=435&height=40px&lines=Web+Development+Full+Stack)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71006af13BF7&width=435&height=40px&lines=Web+Development+Full+Stack)](https://git.io/typing-svg) -->
 
 [![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno_i79/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoismael/)
 
+<div style="display: flex; height: 180px">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burnninel&show_icons=true&theme=transparent)
+
+<div style="margin-left: 5px;">
+    <img height:190px src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Burnninel&show_icons=true&theme=transparent&layout=compact" />
+</div>
+
+</div>
 
 ![Snake animation](https://github.com/Burnninel/Burnninel/blob/main/github-user-contribution.svg)
 
