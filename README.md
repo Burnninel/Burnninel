@@ -19,7 +19,7 @@
 
 <h1 style="color: #fff; margin-top: 30px; margin-bottom: 0px;">My HardSkills</h1>
 
-<div style="display: inline-block">
+<div>
     <div style="margin-bottom: 4px">
     <h4 style="color: #fff; margin-bottom: 8px; text-transform: uppercase">Front-end:</h4>
         <img align="center" alt="html5" style="margin-bottom: 5px;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
