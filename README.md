@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71006AF7&width=600&height=45&lines=Hello,+I'm+Bruno.;Full+Stack+Developer.;Building+Structured+and+Scalable+Systems+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&width=600&height=45&lines=Hello,+I'm+Bruno.;Full+Stack+Developer.;Building+Structured+Systems+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 I build complete digital solutions — from intuitive interfaces to well-structured back-end systems.
 
-I enjoy turning ideas into organized, scalable and maintainable applications, always focusing on clean architecture and long-term code quality.
+I focus on creating scalable, maintainable applications with clean architecture and long-term code quality in mind.
 
 Constant evolution is part of my process.
 
@@ -20,10 +20,10 @@ Constant evolution is part of my process.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brunoismael/">
-    <img src="https://img.shields.io/badge/LinkedIn-71006A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/bruno_i79/">
-    <img src="https://img.shields.io/badge/Instagram-71006A?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-1E3A8A?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -47,10 +47,10 @@ Constant evolution is part of my process.
 ### 🎨 Frontend Core
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-71006A?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-71006A?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-71006A?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-71006A?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-374151?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-374151?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-374151?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-374151?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ---
@@ -58,8 +58,8 @@ Constant evolution is part of my process.
 ### ⚛ Frameworks & Libraries
 
 <p>
-  <img src="https://img.shields.io/badge/React-71006A?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-71006A?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-374151?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-374151?style=for-the-badge&logo=vue.js&logoColor=white"/>
 </p>
 
 ---
@@ -67,8 +67,8 @@ Constant evolution is part of my process.
 ### 🎭 Styling
 
 <p>
-  <img src="https://img.shields.io/badge/Tailwind-71006A?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-71006A?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-374151?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-374151?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 ---
@@ -76,8 +76,8 @@ Constant evolution is part of my process.
 ### ⚙ Backend
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-71006A?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-71006A?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-374151?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-374151?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
 ---
@@ -85,8 +85,8 @@ Constant evolution is part of my process.
 ### 🗄 Databases
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-71006A?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-71006A?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-374151?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-374151?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
