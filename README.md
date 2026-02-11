@@ -44,22 +44,36 @@ Constant evolution is part of my process.
 
 # 🛠 Tech Stack
 
-### 🎨 Front-end
+### 🎨 Frontend Core
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-71006A?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-71006A?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-71006A?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-71006A?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+---
+
+### ⚛ Frameworks & Libraries
+
+<p>
   <img src="https://img.shields.io/badge/React-71006A?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-71006A?style=for-the-badge&logo=vue.js&logoColor=white"/>
+</p>
+
+---
+
+### 🎭 Styling
+
+<p>
   <img src="https://img.shields.io/badge/Tailwind-71006A?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-71006A?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 ---
 
-### ⚙ Back-end
+### ⚙ Backend
 
 <p>
   <img src="https://img.shields.io/badge/PHP-71006A?style=for-the-badge&logo=php&logoColor=white"/>
