@@ -31,14 +31,15 @@ Constant evolution is part of my process.
 
 ## 📊 Development Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Burnninel&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Burnninel&theme=transparent&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="140" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Burnninel&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap;">
+
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burnninel&layout=compact&theme=transparent&hide_border=true"/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=Burnninel&theme=transparent&hide_border=true"/>
+
+</div>
 
 ---
 
